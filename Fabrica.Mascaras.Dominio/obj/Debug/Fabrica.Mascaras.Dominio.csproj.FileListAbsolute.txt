@@ -1,0 +1,5 @@
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Dominio\bin\Debug\Fabrica.Mascaras.Dominio.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Dominio\bin\Debug\Fabrica.Mascaras.Dominio.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Dominio\obj\Debug\Fabrica.Mascaras.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Dominio\obj\Debug\Fabrica.Mascaras.Dominio.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Dominio\obj\Debug\Fabrica.Mascaras.Dominio.pdb

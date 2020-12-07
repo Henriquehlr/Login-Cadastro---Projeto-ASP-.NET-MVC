@@ -1,0 +1,12 @@
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\Fabrica.Mascaras.Generica.Entity.dll.config
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\Fabrica.Mascaras.Generica.Entity.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\Fabrica.Mascaras.Generica.Entity.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\obj\Debug\Fabrica.Mascaras.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\obj\Debug\Fabrica.Mascaras.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\obj\Debug\Fabrica.Mascaras.Generica.Entity.csproj.CopyComplete
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\obj\Debug\Fabrica.Mascaras.Generica.Entity.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Fabrica.Mascaras\Fabrica.Mascaras.Generica.Entity\obj\Debug\Fabrica.Mascaras.Generica.Entity.pdb

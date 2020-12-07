@@ -1,0 +1,58 @@
+﻿@model Fabrica.Mascaras.Web.ViewModels.Mascara.MascaraIndexViewModels
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Mascara</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeTecido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeTecido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeMascara)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeMascara)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tamanho)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tamanho)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ano)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ano)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdMascara }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
